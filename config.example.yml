@@ -1,0 +1,3 @@
+default:
+  project_id: # The BigQuery's project-id is here
+  path: # The Local work directory is here
